@@ -1,10 +1,12 @@
 ### Hi there, I'm Abdullah 👋
-   
-## I'm a Electronics Technician, Programmer, Desginer!!
+## I'm a Electronics Technician, Programmer, And Desginer.![IMG_7735](https://user-images.githubusercontent.com/85587466/127727912-7fbdaa88-9c3e-4564-856e-24e10de540d6.PNG)
+
 
  - 👷 I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
  - 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
  - 🌱 I’m currently learning everything 🤣 
+ -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] 
+ -  Student Member of [IEEE](https://www.ieee.org/) [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
  --------------------------- 
   - 📫 How to reach me:   
 
@@ -33,4 +35,7 @@
 [C]: https://www.learn-c.org/
 [C++]: https://isocpp.org/
 [EC]: https://en.wikipedia.org/wiki/Embedded_C
+[EC]: https://en.wikipedia.org/wiki/Embedded_C
+[IOT4AR]: https://twitter.com/IOT4AR
+[IEEE]: https://www.ieee.org
 
