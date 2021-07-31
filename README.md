@@ -5,16 +5,32 @@
  - 👷 I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
  - 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
  - 🌱 I’m currently learning everything 🤣 
- ---------------------------   
- - 📫 How to reach me:   
+ --------------------------- 
+  - 📫 How to reach me:   
 
 
 [<img align="left" alt="AShenaifi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AShenaifi | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 </details>
+<br />
 
+
+---------------------------
+    
+### Languages and Tools:
+[<img align="left" alt="Arduino" width="26px" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" />][Arduino]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
+[<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][C]
+[<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />][C++]
+[<img align="left" alt="EC" width="35px" src="https://svgshare.com/i/Zif.svg" />][EC]
 
 [twitter]: https://twitter.com/abdllahaz
 [email]: mailto:a.ashenaifi@gmail.com
-[linkedin]: https://linkedin.com/in/abdullahshenaifi
+[linkedin]: https://linkedin.com/in/abdullahshenaifi  
+[VScode]: https://code.visualstudio.com/
+[Arduino]: https://www.arduino.cc/en/software
+[C]: https://www.learn-c.org/
+[C++]: https://isocpp.org/
+[EC]: https://en.wikipedia.org/wiki/Embedded_C
+
