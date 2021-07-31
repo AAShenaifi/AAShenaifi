@@ -2,9 +2,10 @@
 ## I'm a Electronics Technician, Programmer, And Desginer.![IMG_7735](https://user-images.githubusercontent.com/85587466/127727912-7fbdaa88-9c3e-4564-856e-24e10de540d6.PNG)
 
 
- - 👷 I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
- - 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
- - 🌱 I’m currently learning everything 🤣 
+ - <img align="left" alt="Study" width="26px" src="https://i.postimg.cc/MGR3PPhk/student.png" />  I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
+   <br />  
+ - <img align="left" alt="Trainning" width="26px" src="https://i.postimg.cc/3rbjGjc2/practice.png" /> I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
+ - <img align="left" alt="Learning" width="26px" src="https://i.postimg.cc/D0KTp4C6/online-learning.png" /> I’m currently learning everything 🤣 
  -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] <br />
 
 -  Student Member of [IEEE](https://www.ieee.org/)   [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
@@ -14,9 +15,9 @@
   - 📫 How to reach me:   
 
 
-[<img align="left" alt="AShenaifi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AShenaifi | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
+[<img align="left" alt="AShenaifi | Twitter" width="22px" src="https://i.postimg.cc/htKGP61s/twitter.png" />][twitter]
+[<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://i.postimg.cc/ZqRK6Ngy/linkedin.png" />][linkedin]
+[<img align="left" alt="AShenaifi | email" width="22px" src="https://i.postimg.cc/WprpmT9S/email.png" />][email]
 </details>
 <br />
 
