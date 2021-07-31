@@ -8,7 +8,8 @@
  -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] <br />
 
 -  Student Member of [IEEE](https://www.ieee.org/)   [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
- 
+
+- fact I own two 3D printers <img align="left" alt="3D" width="26px" src="https://i.postimg.cc/XJsJT8CL/3d-printer.png" />
  --------------------------- 
   - 📫 How to reach me:   
 
