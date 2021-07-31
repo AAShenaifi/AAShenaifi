@@ -6,7 +6,7 @@
  - 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
  - 🌱 I’m currently learning everything 🤣 
  -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] 
- -  Student Member of [IEEE](https://www.ieee.org/) [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
+ -Student Member of [IEEE](https://www.ieee.org/) [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
  --------------------------- 
   - 📫 How to reach me:   
 
