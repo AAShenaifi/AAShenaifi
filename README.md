@@ -1,5 +1,5 @@
 ### Hi there, I'm Abdullah 👋
-## I'm a Electronics Technician, Programmer, And Desginer.![IMG_7795](https://user-images.githubusercontent.com/85587466/127903546-84fdd357-f447-4ce6-8e23-27c5ea8800c7.JPG)
+## I'm an Electronics Technician, Programmer, And Desginer.![IMG_7795](https://user-images.githubusercontent.com/85587466/127903546-84fdd357-f447-4ce6-8e23-27c5ea8800c7.JPG)
 
 
  - <img align="left" alt="Study" width="26px" src="https://i.postimg.cc/MGR3PPhk/student.png" />  I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
