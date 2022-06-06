@@ -43,5 +43,5 @@
 [EC]: https://en.wikipedia.org/wiki/Embedded_C
 [IOT4AR]: https://twitter.com/IOT4AR
 [IEEE]: https://www.ieee.org
-[VHDL]: https://www.learn-c.org/
+[VHDL]: https://www.xilinx.com
 
