@@ -30,7 +30,8 @@
 [<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][C]
 [<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />][C++]
 [<img align="left" alt="EC" width="35px" src="https://svgshare.com/i/Zif.svg" />][EC]
-
+[<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
+https://i.postimg.cc/0Nqg0T8T/VHDL.jpg
 [twitter]: https://twitter.com/abdllahaz
 [email]: mailto:a.ashenaifi@gmail.com
 [linkedin]: https://linkedin.com/in/abdullahshenaifi  
@@ -42,4 +43,5 @@
 [EC]: https://en.wikipedia.org/wiki/Embedded_C
 [IOT4AR]: https://twitter.com/IOT4AR
 [IEEE]: https://www.ieee.org
+[VHDL]: https://www.learn-c.org/
 
