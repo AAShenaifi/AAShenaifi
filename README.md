@@ -31,7 +31,7 @@
 [<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />][C++]
 [<img align="left" alt="EC" width="35px" src="https://svgshare.com/i/Zif.svg" />][EC]
 [<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
-https://i.postimg.cc/0Nqg0T8T/VHDL.jpg
+
 [twitter]: https://twitter.com/abdllahaz
 [email]: mailto:a.ashenaifi@gmail.com
 [linkedin]: https://linkedin.com/in/abdullahshenaifi  
