@@ -4,7 +4,7 @@
 
  - <img align="left" alt="Study" width="26px" src="https://i.postimg.cc/MGR3PPhk/student.png" />  I’m currently studying bachelor of Industrial Electronics and Control at [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
    <br />  
- - <img align="left" alt="Trainning" width="26px" src="https://i.postimg.cc/3rbjGjc2/practice.png" /> I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa)
+ - <img align="left" alt="Trainning" width="26px" src="https://i.postimg.cc/3rbjGjc2/practice.png" /> I’m currently training and volunteering at [TAWASAL Association for Assistive Technologies for People with Disabilities](https://www.tawasal.org/)
  - <img align="left" alt="Learning" width="26px" src="https://i.postimg.cc/D0KTp4C6/online-learning.png" /> I’m currently learning everything 🤣 
  -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] <br />
 
