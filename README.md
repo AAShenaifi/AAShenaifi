@@ -29,7 +29,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
 [<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][C]
 [<img align="left" alt="C++" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp.svg" />][C++]
-[<img align="left" alt="EC" width="35px" src="https://github.com/AShenaifi/AShenaifi/blob/main/EC2-1.svg" />][EC]
+[<img align="left" alt="EC" width="35px" src="https://i.postimg.cc/wM6P6dKJ/EC2-1.png" />][EC]
 [<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
 
 [twitter]: https://twitter.com/abdllahaz
