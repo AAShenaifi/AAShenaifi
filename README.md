@@ -40,7 +40,7 @@
 [C]: https://www.learn-c.org/
 [C++]: https://isocpp.org/
 [EC]: https://en.wikipedia.org/wiki/Embedded_C
-[EC]: https://en.wikipedia.org/wiki/Embedded_C
+
 [IOT4AR]: https://twitter.com/IOT4AR
 [IEEE]: https://www.ieee.org
 [VHDL]: https://www.xilinx.com
