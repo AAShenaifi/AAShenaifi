@@ -27,7 +27,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Arduino" width="26px" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" />][Arduino]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://i.postimg.cc/dQNcjnzB/visual-studio-code.png" />][VScode]
-[<img align="left" alt="C" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c.svg" />][C]
+[<img align="left" alt="C" width="26px" src="https://i.postimg.cc/59KjQBpc/c.png" />][C]
 [<img align="left" alt="C++" width="26px" src="https://i.postimg.cc/brmyxh1H/cpp.png" />][C++]
 [<img align="left" alt="EC" width="35px" src="https://i.postimg.cc/wM6P6dKJ/EC2-1.png" />][EC]
 [<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
