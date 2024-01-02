@@ -12,12 +12,15 @@
 
 - fact I own two 3D printers <img align="left" alt="3D" width="26px" src="https://i.postimg.cc/XJsJT8CL/3d-printer.png" />
  --------------------------- 
-  - 📫 How to reach me:   
+  - 📫 How to reach me:
 
+[<img align="right" alt="AShenaifi | QR" width="100px" src="https://i.postimg.cc/nhn4H8hS/linktree-w-logo1.png" />][QR]
 
-[<img align="left" alt="AShenaifi | X.com" width="22px" src="https://i.postimg.cc/zGjKPd8m/X-Logo.png" />][X]
+[<img align="left" alt="AShenaifi | linktree" width="85px" src="https://i.postimg.cc/RCJH7SYn/Linktree-Emblem.png" />][Linktree]
+[<img align="left" alt="AShenaifi | X.com" width="22px" src="https://i.postimg.cc/zGr2mPh0/X-Logo.png" />][X]
 [<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://i.postimg.cc/ZqRK6Ngy/linkedin.png" />][linkedin]
 [<img align="left" alt="AShenaifi | email" width="22px" src="https://i.postimg.cc/WprpmT9S/email.png" />][email]
+
 </details>
 <br />
 
@@ -32,6 +35,8 @@
 [<img align="left" alt="EC" width="35px" src="https://i.postimg.cc/wM6P6dKJ/EC2-1.png" />][EC]
 [<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
 
+[QR]: https://linktr.ee/aashenaifi
+[Linktree]: https://linktr.ee/aashenaifi
 [X]: https://x.com/aashenaifi
 [email]: mailto:a.ashenaifi@gmail.com
 [linkedin]: https://linkedin.com/in/abdullahshenaifi  
