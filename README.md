@@ -15,7 +15,7 @@
   - 📫 How to reach me:   
 
 
-[<img align="left" alt="AShenaifi | Twitter" width="22px" src="https://i.postimg.cc/htKGP61s/twitter.png" />][twitter]
+[<img align="left" alt="AShenaifi | X.com" width="22px" src="https://i.postimg.cc/zGjKPd8m/X-Logo.png" />][X]
 [<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://i.postimg.cc/ZqRK6Ngy/linkedin.png" />][linkedin]
 [<img align="left" alt="AShenaifi | email" width="22px" src="https://i.postimg.cc/WprpmT9S/email.png" />][email]
 </details>
@@ -32,7 +32,7 @@
 [<img align="left" alt="EC" width="35px" src="https://i.postimg.cc/wM6P6dKJ/EC2-1.png" />][EC]
 [<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
 
-[twitter]: https://twitter.com/abdllahaz
+[X]: https://x.com/aashenaifi
 [email]: mailto:a.ashenaifi@gmail.com
 [linkedin]: https://linkedin.com/in/abdullahshenaifi  
 [VScode]: https://code.visualstudio.com/
