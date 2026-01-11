@@ -1,51 +1,42 @@
-### Hi there, I'm Abdullah 👋
-## I'm an Electronics Engineer, Programmer, And Desginer.![IMG_7795](https://user-images.githubusercontent.com/85587466/127903546-84fdd357-f447-4ce6-8e23-27c5ea8800c7.JPG)
+# Hi, I’m Abdullah Al-Shenaifi 👋  
+**Electronics & Embedded Systems Engineer | IoT + Prototyping | Arduino/ESP32 | 3D Printing | Trainer**
 
+I build practical hardware + software prototypes—embedded firmware, sensors/IoT, and product-ready enclosures—then document them clearly so others can reproduce and improve them.
 
- - <img align="left" alt="Study" width="26px" src="https://i.postimg.cc/MGR3PPhk/student.png" />  I have a Bachelor's degree in Applied Electronics and Control Systems Engineering from [Riyadh Collage Of Technology](https://www.electronyat.tech/) 
-   <br />  
- - <img align="left" alt="Trainning" width="26px" src="https://i.postimg.cc/3rbjGjc2/practice.png" /> I’m currently training and volunteering at [TAWASAL Association for Assistive Technologies for People with Disabilities](https://www.tawasal.org/)
- - <img align="left" alt="Learning" width="26px" src="https://i.postimg.cc/D0KTp4C6/online-learning.png" /> I’m currently learning everything 🤣 
- -  Member of [IoT For Arab](https://twitter.com/IOT4AR) [<img align="left" alt="IOT4AR" width="26px" src="https://i.postimg.cc/d03btjkD/iot4ar1.png" />][IOT4AR] <br />
+---
 
--  Past Student Member of [IEEE](https://www.ieee.org/)   [<img align="left" alt="IEEE" width="26px" src="https://i.postimg.cc/NGDkpqPq/ieee-logo-icon-169992.png" />][IEEE]
+## What I do
+- **Embedded & IoT prototyping:** Arduino / ESP32, sensors, displays, wireless communication  
+- **Electronics engineering:** circuit design, debugging, testing, troubleshooting  
+- **Prototyping for products:** 3D modeling + 3D printing (enclosures, mounts, jigs)  
+- **Teaching & training:** Arduino, electronics basics, mechatronics concepts
 
-- fact I own two 3D printers <img align="left" alt="3D" width="26px" src="https://i.postimg.cc/XJsJT8CL/3d-printer.png" />
- --------------------------- 
-  - 📫 How to reach me:
+---
 
-[<img align="right" alt="AShenaifi | QR" width="100px" src="https://i.postimg.cc/nhn4H8hS/linktree-w-logo1.png" />][QR]
+## Featured work
+- **NUBH** – Smart speed-alert & safety awareness device (ESP32 + ESP-NOW + OLED + CAN)  
+- **IoT Water Monitoring System** – sensors + data + 3D printed housing  
+- **Robotics electronics & control** – motor drivers, controllers, custom boards, prototypes  
 
-[<img align="left" alt="AShenaifi | linktree" width="85px" src="https://i.postimg.cc/RCJH7SYn/Linktree-Emblem.png" />][Linktree]
-[<img align="left" alt="AShenaifi | X.com" width="22px" src="https://i.postimg.cc/zGr2mPh0/X-Logo.png" />][X]
-[<img align="left" alt="AShenaifi | LinkedIn" width="22px" src="https://i.postimg.cc/ZqRK6Ngy/linkedin.png" />][linkedin]
-[<img align="left" alt="AShenaifi | email" width="22px" src="https://i.postimg.cc/WprpmT9S/email.png" />][email]
+> I keep my best projects documented with wiring, code, and clear demos.
 
-</details>
-<br />
+---
 
+## Education & memberships
+- **B.Sc. – Applied Electronics & Control Systems Engineering**, Riyadh College of Technology  
+- Member: **Saudi Council of Engineers (SCE)**, **IEEE (Professional Member)**, **IoT for Arab**
 
----------------------------
-    
-### Languages and Tools:
-[<img align="left" alt="Arduino" width="26px" src="https://www.arduino.cc/wiki/370832ed4114dd35d498f2f449b4781e/arduino.svg" />][Arduino]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://i.postimg.cc/dQNcjnzB/visual-studio-code.png" />][VScode]
-[<img align="left" alt="C" width="26px" src="https://i.postimg.cc/59KjQBpc/c.png" />][C]
-[<img align="left" alt="C++" width="26px" src="https://i.postimg.cc/brmyxh1H/cpp.png" />][C++]
-[<img align="left" alt="EC" width="35px" src="https://i.postimg.cc/wM6P6dKJ/EC2-1.png" />][EC]
-[<img align="left" alt="VHDL" width="35px" src="https://i.postimg.cc/0Nqg0T8T/VHDL.jpg" />][VHDL]
+---
 
-[QR]: https://linktr.ee/aashenaifi
-[Linktree]: https://linktr.ee/aashenaifi
-[X]: https://x.com/aashenaifi
-[email]: mailto:a.ashenaifi@gmail.com
-[linkedin]: https://linkedin.com/in/abdullahshenaifi  
-[VScode]: https://code.visualstudio.com/
-[Arduino]: https://www.arduino.cc/en/software
-[C]: https://www.learn-c.org/
-[C++]: https://isocpp.org/
-[EC]: https://en.wikipedia.org/wiki/Embedded_C
-[IOT4AR]: https://twitter.com/IOT4AR
-[IEEE]: https://www.ieee.org
-[VHDL]: https://www.xilinx.com
+## Tools & technologies
+**Embedded:** C/C++, Arduino, ESP32  
+**Prototyping:** 3D printing, CAD (Fusion/SolidWorks/etc.)  
+**Software:** Git/GitHub, VS Code, basic web tools when needed
 
+---
+
+## Contact
+- Website: **https://aashenaifi.com**
+- LinkedIn: https://linkedin.com/in/abdullahshenaifi  
+- X: https://x.com/aashenaifi  
+- Email: a.ashenaifi@gmail.com  
